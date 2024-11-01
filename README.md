@@ -1,3 +1,8 @@
+## :camera: Video Preview
+
+[App-preview.webm](https://github.com/user-attachments/assets/9d8cb7e7-12f1-4050-8924-31db1441539c)
+
+
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
